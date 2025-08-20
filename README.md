@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PinguHackerino.
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in cybersecurity and AI.
 - 🌱 I’m currently learning c, c#, python, java.
 
 <!---
